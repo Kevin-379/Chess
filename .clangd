@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-I../node_modules/node-addon-api/, -I/home/kevin/.nvm/versions/node/v16.13.1/include/node/]
